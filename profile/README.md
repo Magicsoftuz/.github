@@ -13,7 +13,7 @@ The Ultimate step towards your dream Job!
 ## Get in touch!
 
 Learn more about what we're doing in open source at Github profile
-Interested in a career at MagicSoft? Check out our opportunities on [Twitter Careers](https://magicsoft.uz/)!
+Interested in a career at MagicSoft? Check out our opportunities on [MagicSoft Careers](https://magicsoft.uz/)!
 
 # Meaningful SILENCE is always better than meaningless WORDS!
 
