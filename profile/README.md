@@ -1,12 +1,22 @@
-## Hi there 👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61970444/183135207-1966ab14-07e5-4a07-9572-bfec7b4cb666.gif"/>
+</p>
 
-<!--
+MagicSoft is what's happening and what people are talking about right now.
+The Ultimate step towards your dream Job!
 
-**Here are some ideas to get you started:**
+## Participating in the community
+1. Prepare for Industry level exposure with some of the essential projects that help you enhance your skills.
+2. Enhance your soft skills and learn to communicate your talent and crack the best jobs in the industry.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Get in touch!
+
+Learn more about what we're doing in open source at Github profile
+Interested in a career at MagicSoft? Check out our opportunities on [Twitter Careers](https://magicsoft.uz/)!
+
+# Meaningful SILENCE is always better than meaningless WORDS!
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61970444/183136663-cefea923-c10c-4738-b496-bc72a1bbe05a.gif" />
+</p>
