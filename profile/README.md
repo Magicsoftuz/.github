@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/61970444/183135207-1966ab14-07e5-4a07-9572-bfec7b4cb666.gif"/>
+  <img src="https://user-images.githubusercontent.com/61970444/183136663-cefea923-c10c-4738-b496-bc72a1bbe05a.gif" />
 </p>
+
 
 MagicSoft is what's happening and what people are talking about right now.
 The Ultimate step towards your dream Job!
@@ -17,6 +18,3 @@ Interested in a career at MagicSoft? Check out our opportunities on [Twitter Car
 # Meaningful SILENCE is always better than meaningless WORDS!
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61970444/183136663-cefea923-c10c-4738-b496-bc72a1bbe05a.gif" />
-</p>
