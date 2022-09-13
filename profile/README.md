@@ -15,6 +15,6 @@ The Ultimate step towards your dream Job!
 Learn more about what we're doing in open source at Github profile
 Interested in a career at MagicSoft? Check out our opportunities on [MagicSoft Careers](https://magicsoft.uz/)!
 
-# Meaningful SILENCE is always better than meaningless WORDS!
+
 
 
